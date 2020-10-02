@@ -73,7 +73,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Muhammad Azani Hasibuan is a Phd student at the University of Western Australia.He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests centre on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students’ regulation in the online collaborative learning environment.
