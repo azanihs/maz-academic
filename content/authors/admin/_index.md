@@ -28,14 +28,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Engineering Education
+    institution: Universit of Western Australia
+    year: now
+  - course: M.T.I 
+    institution: Universitas Indonesia (University of Indonesia)
+    year: 2011
+  - course: BCompSci 
+    institution: Universitas Indonesia (University of Indonesia)
     year: 2008
 
 # Social/Academic Networking
