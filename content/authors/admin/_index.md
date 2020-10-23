@@ -29,12 +29,12 @@ interests:
 education:
   courses:
   - course: PhD in Engineering Education
-    institution: Universit of Western Australia
+    institution: University of Western Australia
     year: now
-  - course: M.T.I 
+  - course: Master in Information Technology
     institution: Universitas Indonesia (University of Indonesia)
     year: 2011
-  - course: BCompSci 
+  - course: Bachelor in Computer Science
     institution: Universitas Indonesia (University of Indonesia)
     year: 2008
 
