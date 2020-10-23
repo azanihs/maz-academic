@@ -30,7 +30,7 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "10%"
+  description = "100%"
 
 
 
