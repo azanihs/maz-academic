@@ -18,7 +18,7 @@ organizations:
   url: "www.uwa.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning analytics, educational data mining, online learning, and human-computer interaction
+bio: PhD student in Computer Science and Engineering Education at The University of Western Australia
 
 interests:
 - Artificial Intelligence in education
@@ -55,6 +55,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/muhammadazani
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/muhammadazani
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@muhammad.azani
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
