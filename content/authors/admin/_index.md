@@ -52,9 +52,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/muhammadazani
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/muhammadazani
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@muhammad.azani
